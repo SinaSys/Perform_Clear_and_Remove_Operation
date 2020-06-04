@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Perform_Clear_and_Remove_Operation.iml" filepath="$PROJECT_DIR$/Perform_Clear_and_Remove_Operation.iml" group="Perform_Clear_and_Remove_Operation" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Perform_Clear_and_Remove_Operation/app" />
+    </modules>
+  </component>
+</project>
